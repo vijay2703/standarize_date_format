@@ -1,0 +1,2478 @@
+[
+  {
+    "Abbreviation": "ABATE",
+    "Values": "ABATEMENT"
+  },
+  {
+    "Abbreviation": "ACAD",
+    "Values": "ACADEMIC"
+  },
+  {
+    "Abbreviation": "ACCT",
+    "Values": "ACCOUNT"
+  },
+  {
+    "Abbreviation": "ACK",
+    "Values": "ACKNOWLEDGEMENT"
+  },
+  {
+    "Abbreviation": "ACQ",
+    "Values": "ACQUISITION"
+  },
+  {
+    "Abbreviation": "ACT",
+    "Values": "ACTIVITY"
+  },
+  {
+    "Abbreviation": "ADMIN",
+    "Values": "ADMINISTRATIVE"
+  },
+  {
+    "Abbreviation": "ADMISS",
+    "Values": "ADMISSION"
+  },
+  {
+    "Abbreviation": "ADVNCD",
+    "Values": "ADVANCED"
+  },
+  {
+    "Abbreviation": "AIT",
+    "Values": "ADVANCED"
+  },
+  {
+    "Abbreviation": "ADV",
+    "Values": "ADVISOR"
+  },
+  {
+    "Abbreviation": "AFF",
+    "Values": "AFFAIRS"
+  },
+  {
+    "Abbreviation": "AA",
+    "Values": "AFFIRMATIVE"
+  },
+  {
+    "Abbreviation": "AIM",
+    "Values": "AFTERCARE"
+  },
+  {
+    "Abbreviation": "ALUM",
+    "Values": "ALUMNI"
+  },
+  {
+    "Abbreviation": "AMBUL",
+    "Values": "AMBULATORY"
+  },
+  {
+    "Abbreviation": "ADA",
+    "Values": "AMERICAN"
+  },
+  {
+    "Abbreviation": "ANGIO",
+    "Values": "ANGIOGRAPHY"
+  },
+  {
+    "Abbreviation": "ANN",
+    "Values": "ANNUAL"
+  },
+  {
+    "Abbreviation": "APPL",
+    "Values": "APPLICATION"
+  },
+  {
+    "Abbreviation": "APPT",
+    "Values": "APPOINTMENT"
+  },
+  {
+    "Abbreviation": "APR",
+    "Values": "APPRENTICE"
+  },
+  {
+    "Abbreviation": "ASBES",
+    "Values": "ASBESTOS"
+  },
+  {
+    "Abbreviation": "ASSESS",
+    "Values": "ASSESS"
+  },
+  {
+    "Abbreviation": "ASST",
+    "Values": "ASSISTANT"
+  },
+  {
+    "Abbreviation": "AVC",
+    "Values": "ASSISTANT/ASSOCIATE"
+  },
+  {
+    "Abbreviation": "AVP",
+    "Values": "ASSISTANT/ASSOCIATE"
+  },
+  {
+    "Abbreviation": "AI",
+    "Values": "ASSOCIATE"
+  },
+  {
+    "Abbreviation": "ASSOC",
+    "Values": "ASSOCIATE"
+  },
+  {
+    "Abbreviation": "ABFE",
+    "Values": "ASSOCIATION"
+  },
+  {
+    "Abbreviation": "ASSUR",
+    "Values": "ASSURANCE"
+  },
+  {
+    "Abbreviation": "ATH",
+    "Values": "ATHLETIC"
+  },
+  {
+    "Abbreviation": "ATTD",
+    "Values": "ATTENDANT"
+  },
+  {
+    "Abbreviation": "AV",
+    "Values": "AUDIO"
+  },
+  {
+    "Abbreviation": "AUD",
+    "Values": "AUDIOLOGY"
+  },
+  {
+    "Abbreviation": "AUX",
+    "Values": "AUXILIARY"
+  },
+  {
+    "Abbreviation": "BSW",
+    "Values": "BACHELOR"
+  },
+  {
+    "Abbreviation": "BASBL",
+    "Values": "BASEBALL"
+  },
+  {
+    "Abbreviation": "BSKTB",
+    "Values": "BASKETBALL"
+  },
+  {
+    "Abbreviation": "BIOINFO",
+    "Values": "BIOINFORMATICS"
+  },
+  {
+    "Abbreviation": "BTHER",
+    "Values": "BIOLOGIC"
+  },
+  {
+    "Abbreviation": "BL",
+    "Values": "BLOOMINGTON"
+  },
+  {
+    "Abbreviation": "BLDG",
+    "Values": "BUILDING"
+  },
+  {
+    "Abbreviation": "BUS",
+    "Values": "BUSINESS"
+  },
+  {
+    "Abbreviation": "CAMP",
+    "Values": "CAMPAIGN"
+  },
+  {
+    "Abbreviation": "CNCR",
+    "Values": "CANCER"
+  },
+  {
+    "Abbreviation": "CAP",
+    "Values": "CAPITAL"
+  },
+  {
+    "Abbreviation": "CAM",
+    "Values": "CAPITAL"
+  },
+  {
+    "Abbreviation": "CLS",
+    "Values": "CARDIAC"
+  },
+  {
+    "Abbreviation": "CARDIO",
+    "Values": "CARDIOLOGY"
+  },
+  {
+    "Abbreviation": "CPR",
+    "Values": "CARDIOPULMONARY"
+  },
+  {
+    "Abbreviation": "CTLG",
+    "Values": "CATALOGING"
+  },
+  {
+    "Abbreviation": "CATH",
+    "Values": "CATHERIZATION"
+  },
+  {
+    "Abbreviation": "CAV",
+    "Values": "CAVANAUGH"
+  },
+  {
+    "Abbreviation": "CTR",
+    "Values": "CENTER"
+  },
+  {
+    "Abbreviation": "CRTN",
+    "Values": "CERTIFICATION"
+  },
+  {
+    "Abbreviation": "CHANC",
+    "Values": "CHANCELLOR"
+  },
+  {
+    "Abbreviation": "CHEM",
+    "Values": "CHEMISTRY"
+  },
+  {
+    "Abbreviation": "CEO",
+    "Values": "CHIEF"
+  },
+  {
+    "Abbreviation": "CFO",
+    "Values": "CHIEF"
+  },
+  {
+    "Abbreviation": "CHLDHD",
+    "Values": "CHILDHOOD"
+  },
+  {
+    "Abbreviation": "CIRC",
+    "Values": "CIRCULATION"
+  },
+  {
+    "Abbreviation": "CL",
+    "Values": "CLASS"
+  },
+  {
+    "Abbreviation": "CLSF",
+    "Values": "CLASSIFY"
+  },
+  {
+    "Abbreviation": "CLRGHOUSE",
+    "Values": "CLEARNINGHOUSE"
+  },
+  {
+    "Abbreviation": "CLIN",
+    "Values": "CLINIC"
+  },
+  {
+    "Abbreviation": "COLL",
+    "Values": "COLLECTION"
+  },
+  {
+    "Abbreviation": "CPI",
+    "Values": "COLLEGE"
+  },
+  {
+    "Abbreviation": "CMTE",
+    "Values": "COMMITTEE"
+  },
+  {
+    "Abbreviation": "COMM",
+    "Values": "COMMUNICATION"
+  },
+  {
+    "Abbreviation": "CMTY",
+    "Values": "COMMUNITY"
+  },
+  {
+    "Abbreviation": "COMPENS",
+    "Values": "COMPENSATION"
+  },
+  {
+    "Abbreviation": "CMPL",
+    "Values": "COMPLIANCE"
+  },
+  {
+    "Abbreviation": "CBC",
+    "Values": "COMPOSITION"
+  },
+  {
+    "Abbreviation": "CADD",
+    "Values": "COMPUTER"
+  },
+  {
+    "Abbreviation": "COMP",
+    "Values": "COMPUTER"
+  },
+  {
+    "Abbreviation": "CONF",
+    "Values": "CONFERENCE"
+  },
+  {
+    "Abbreviation": "CONST",
+    "Values": "CONSTRUCTION"
+  },
+  {
+    "Abbreviation": "CONS",
+    "Values": "CONSULTANT"
+  },
+  {
+    "Abbreviation": "CONSMR",
+    "Values": "CONSUMER"
+  },
+  {
+    "Abbreviation": "CONTIN",
+    "Values": "CONTINUING"
+  },
+  {
+    "Abbreviation": "CME",
+    "Values": "CONTINUING"
+  },
+  {
+    "Abbreviation": "CONT",
+    "Values": "CONTROL"
+  },
+  {
+    "Abbreviation": "COOP",
+    "Values": "COOPERATIVE"
+  },
+  {
+    "Abbreviation": "COORD",
+    "Values": "COORDINATOR"
+  },
+  {
+    "Abbreviation": "COUN",
+    "Values": "COUNSELOR"
+  },
+  {
+    "Abbreviation": "CURR",
+    "Values": "CURRICULUM"
+  },
+  {
+    "Abbreviation": "CYCL",
+    "Values": "CYCLOTRON"
+  },
+  {
+    "Abbreviation": "CYTO",
+    "Values": "CYTOGENETICS"
+  },
+  {
+    "Abbreviation": "DFAC",
+    "Values": "DEAN"
+  },
+  {
+    "Abbreviation": "DECIS",
+    "Values": "DECISION"
+  },
+  {
+    "Abbreviation": "DEL",
+    "Values": "DELIVERY"
+  },
+  {
+    "Abbreviation": "DENT",
+    "Values": "DENTAL"
+  },
+  {
+    "Abbreviation": "DEPT",
+    "Values": "DEPARTMENT"
+  },
+  {
+    "Abbreviation": "DPND",
+    "Values": "DEPENDENCE"
+  },
+  {
+    "Abbreviation": "DSGN",
+    "Values": "DESIGN"
+  },
+  {
+    "Abbreviation": "DEVL",
+    "Values": "DEVELOPMENT"
+  },
+  {
+    "Abbreviation": "DIAG",
+    "Values": "DIAGNOSIS"
+  },
+  {
+    "Abbreviation": "DIG",
+    "Values": "DIGITAL"
+  },
+  {
+    "Abbreviation": "DIR",
+    "Values": "DIRECTOR"
+  },
+  {
+    "Abbreviation": "DISAB",
+    "Values": "DISABLED,"
+  },
+  {
+    "Abbreviation": "DIST",
+    "Values": "DISTANCE"
+  },
+  {
+    "Abbreviation": "DISTRIB",
+    "Values": "DISTRIBUTION"
+  },
+  {
+    "Abbreviation": "DIVR",
+    "Values": "DIVERSITY"
+  },
+  {
+    "Abbreviation": "DIV",
+    "Values": "DIVISION"
+  },
+  {
+    "Abbreviation": "DOC",
+    "Values": "DOCUMENT"
+  },
+  {
+    "Abbreviation": "DOCT",
+    "Values": "DOCTOR"
+  },
+  {
+    "Abbreviation": "DUPL",
+    "Values": "DUPLICATING"
+  },
+  {
+    "Abbreviation": "ECG",
+    "Values": "ECHOCARDIOGRAM"
+  },
+  {
+    "Abbreviation": "EDUC",
+    "Values": "EDUCATION"
+  },
+  {
+    "Abbreviation": "EDUCR",
+    "Values": "EDUCATOR"
+  },
+  {
+    "Abbreviation": "ELEC",
+    "Values": "ELECTRICAL"
+  },
+  {
+    "Abbreviation": "EEG",
+    "Values": "ELECTROENCEPHALOGRAPHIC"
+  },
+  {
+    "Abbreviation": "ELECT",
+    "Values": "ELECTRON"
+  },
+  {
+    "Abbreviation": "ERA",
+    "Values": "ELECTRONIC"
+  },
+  {
+    "Abbreviation": "ELECTROPHYS",
+    "Values": "ELECTROPHYSIOLOGY"
+  },
+  {
+    "Abbreviation": "ELEM",
+    "Values": "ELEMENTARY"
+  },
+  {
+    "Abbreviation": "EMPL",
+    "Values": "EMPLOYMENT"
+  },
+  {
+    "Abbreviation": "ERCP",
+    "Values": "ENDOSCOPIC"
+  },
+  {
+    "Abbreviation": "ENFORCEMNT",
+    "Values": "ENFORCEMENT"
+  },
+  {
+    "Abbreviation": "ENG",
+    "Values": "ENGINEER"
+  },
+  {
+    "Abbreviation": "ES",
+    "Values": "ENROLLMENT"
+  },
+  {
+    "Abbreviation": "ENVIRO",
+    "Values": "ENVIRONMENT"
+  },
+  {
+    "Abbreviation": "EQUIP",
+    "Values": "EQUIPMENT"
+  },
+  {
+    "Abbreviation": "EVAL",
+    "Values": "EVALUATION"
+  },
+  {
+    "Abbreviation": "EVEN",
+    "Values": "EVENING"
+  },
+  {
+    "Abbreviation": "EP",
+    "Values": "EVOKED"
+  },
+  {
+    "Abbreviation": "EXCEL",
+    "Values": "EXCELLENCE"
+  },
+  {
+    "Abbreviation": "EXEC",
+    "Values": "EXECUTIVE"
+  },
+  {
+    "Abbreviation": "EXER",
+    "Values": "EXERCISE"
+  },
+  {
+    "Abbreviation": "EXP",
+    "Values": "EXPERIENCE"
+  },
+  {
+    "Abbreviation": "FAC",
+    "Values": "FACILITY"
+  },
+  {
+    "Abbreviation": "FACET",
+    "Values": "FACULTY"
+  },
+  {
+    "Abbreviation": "FEL",
+    "Values": "FELLOW"
+  },
+  {
+    "Abbreviation": "FMS",
+    "Values": "FINANCIAL"
+  },
+  {
+    "Abbreviation": "FIS",
+    "Values": "FISCAL"
+  },
+  {
+    "Abbreviation": "FSER",
+    "Values": "FOOD"
+  },
+  {
+    "Abbreviation": "FOUNDTN",
+    "Values": "FOUNDATION"
+  },
+  {
+    "Abbreviation": "FRSH",
+    "Values": "FRESHMAN"
+  },
+  {
+    "Abbreviation": "FUTR",
+    "Values": "FUTURE"
+  },
+  {
+    "Abbreviation": "GI",
+    "Values": "GASTROINTESTINAL"
+  },
+  {
+    "Abbreviation": "GEN",
+    "Values": "GENERAL"
+  },
+  {
+    "Abbreviation": "GSN",
+    "Values": "GENERAL"
+  },
+  {
+    "Abbreviation": "GIS",
+    "Values": "GEOGRAPHIC"
+  },
+  {
+    "Abbreviation": "GENI",
+    "Values": "GEOGRAPHY"
+  },
+  {
+    "Abbreviation": "GIV",
+    "Values": "GIVING"
+  },
+  {
+    "Abbreviation": "GOVT",
+    "Values": "GOVERNMENT"
+  },
+  {
+    "Abbreviation": "GR",
+    "Values": "GRADE"
+  },
+  {
+    "Abbreviation": "GRAD",
+    "Values": "GRADUATE"
+  },
+  {
+    "Abbreviation": "GRND",
+    "Values": "GROUND"
+  },
+  {
+    "Abbreviation": "GRP",
+    "Values": "GROUP"
+  },
+  {
+    "Abbreviation": "HD",
+    "Values": "HEAD"
+  },
+  {
+    "Abbreviation": "HLTH",
+    "Values": "HEALTH"
+  },
+  {
+    "Abbreviation": "HIS",
+    "Values": "HEALTH"
+  },
+  {
+    "Abbreviation": "HVAC",
+    "Values": "HEATING"
+  },
+  {
+    "Abbreviation": "HEMA",
+    "Values": "HEMATOLOGY"
+  },
+  {
+    "Abbreviation": "HS",
+    "Values": "HIGH"
+  },
+  {
+    "Abbreviation": "HORTI",
+    "Values": "HORTICULTURIST"
+  },
+  {
+    "Abbreviation": "HOSP",
+    "Values": "HOSPITAL"
+  },
+  {
+    "Abbreviation": "HFC",
+    "Values": "HOUSING"
+  },
+  {
+    "Abbreviation": "HIV",
+    "Values": "HUMAN"
+  },
+  {
+    "Abbreviation": "HR",
+    "Values": "HUMAN"
+  },
+  {
+    "Abbreviation": "IMAG",
+    "Values": "IMAGIN"
+  },
+  {
+    "Abbreviation": "IMMUN",
+    "Values": "IMMUNIZATION"
+  },
+  {
+    "Abbreviation": "IAI",
+    "Values": "INDIANA"
+  },
+  {
+    "Abbreviation": "IPCRES",
+    "Values": "INDIANA"
+  },
+  {
+    "Abbreviation": "IU",
+    "Values": "INDIANA"
+  },
+  {
+    "Abbreviation": "INDPLS",
+    "Values": "INDIANAPOLIS"
+  },
+  {
+    "Abbreviation": "IAHP",
+    "Values": "INDIANAPOLIS"
+  },
+  {
+    "Abbreviation": "INFEC",
+    "Values": "INFECTION"
+  },
+  {
+    "Abbreviation": "IBD",
+    "Values": "INFLAMMATORY"
+  },
+  {
+    "Abbreviation": "INFO",
+    "Values": "INFORMATION"
+  },
+  {
+    "Abbreviation": "IO",
+    "Values": "INFORMATION"
+  },
+  {
+    "Abbreviation": "IOCM",
+    "Values": "INFORMATION"
+  },
+  {
+    "Abbreviation": "INIT",
+    "Values": "INITIATIVES"
+  },
+  {
+    "Abbreviation": "INSP",
+    "Values": "INSPECTOR"
+  },
+  {
+    "Abbreviation": "INSTALL",
+    "Values": "INSTALL"
+  },
+  {
+    "Abbreviation": "INST",
+    "Values": "INSTITUTION"
+  },
+  {
+    "Abbreviation": "INSTR",
+    "Values": "INSTRUCTION"
+  },
+  {
+    "Abbreviation": "IMS",
+    "Values": "INSTRUCTIONAL"
+  },
+  {
+    "Abbreviation": "IT",
+    "Values": "INSTRUCTIONAL"
+  },
+  {
+    "Abbreviation": "INT",
+    "Values": "INTERIM"
+  },
+  {
+    "Abbreviation": "IAVP",
+    "Values": "INTERIM"
+  },
+  {
+    "Abbreviation": "INTERLIBR",
+    "Values": "INTERLIBRARY"
+  },
+  {
+    "Abbreviation": "INTNL",
+    "Values": "INTERNATIONAL"
+  },
+  {
+    "Abbreviation": "INTRN",
+    "Values": "INTERNSHIP"
+  },
+  {
+    "Abbreviation": "INTRREL",
+    "Values": "INTERRELATIONS"
+  },
+  {
+    "Abbreviation": "INTRM",
+    "Values": "INTRAMURAL"
+  },
+  {
+    "Abbreviation": "INV",
+    "Values": "INVASIVE"
+  },
+  {
+    "Abbreviation": "INVEST",
+    "Values": "INVESTIGATIONS"
+  },
+  {
+    "Abbreviation": "JR",
+    "Values": "JUNIOR"
+  },
+  {
+    "Abbreviation": "LAB",
+    "Values": "LABORATORY"
+  },
+  {
+    "Abbreviation": "LANG",
+    "Values": "LANGUAGE"
+  },
+  {
+    "Abbreviation": "LD",
+    "Values": "LEAD"
+  },
+  {
+    "Abbreviation": "LEAD",
+    "Values": "LEADER"
+  },
+  {
+    "Abbreviation": "LRNG",
+    "Values": "LEARNING"
+  },
+  {
+    "Abbreviation": "LEC",
+    "Values": "LECTURER"
+  },
+  {
+    "Abbreviation": "LAS",
+    "Values": "LIBERAL"
+  },
+  {
+    "Abbreviation": "LIBR",
+    "Values": "LIBRARY"
+  },
+  {
+    "Abbreviation": "LIC",
+    "Values": "LICENSED"
+  },
+  {
+    "Abbreviation": "LAN",
+    "Values": "LOCAL"
+  },
+  {
+    "Abbreviation": "MACH",
+    "Values": "MACHINE"
+  },
+  {
+    "Abbreviation": "MRI",
+    "Values": "MAGNETIC"
+  },
+  {
+    "Abbreviation": "MAINT",
+    "Values": "MAINTENANCE"
+  },
+  {
+    "Abbreviation": "MMS",
+    "Values": "MAINTENANCE"
+  },
+  {
+    "Abbreviation": "MBDC",
+    "Values": "MAJOR"
+  },
+  {
+    "Abbreviation": "MAMMO",
+    "Values": "MAMMOGRAPHY"
+  },
+  {
+    "Abbreviation": "MGT",
+    "Values": "MANAGEMENT"
+  },
+  {
+    "Abbreviation": "MGR",
+    "Values": "MANAGER"
+  },
+  {
+    "Abbreviation": "MNGNG",
+    "Values": "MANAGING"
+  },
+  {
+    "Abbreviation": "MKTG",
+    "Values": "MARKETING"
+  },
+  {
+    "Abbreviation": "MSW",
+    "Values": "MASTER"
+  },
+  {
+    "Abbreviation": "MSMS",
+    "Values": "MASTERS"
+  },
+  {
+    "Abbreviation": "MATH",
+    "Values": "MATHEMATICS"
+  },
+  {
+    "Abbreviation": "MECH",
+    "Values": "MECHANIC"
+  },
+  {
+    "Abbreviation": "MED",
+    "Values": "MEDICAL"
+  },
+  {
+    "Abbreviation": "MERP",
+    "Values": "MEDICAL"
+  },
+  {
+    "Abbreviation": "MSAA",
+    "Values": "MEDICAL"
+  },
+  {
+    "Abbreviation": "MEDCN",
+    "Values": "MEICINE"
+  },
+  {
+    "Abbreviation": "MEMBER",
+    "Values": "MEMBE,"
+  },
+  {
+    "Abbreviation": "METH",
+    "Values": "METHODIST"
+  },
+  {
+    "Abbreviation": "MICRO",
+    "Values": "MICROSCOPE,"
+  },
+  {
+    "Abbreviation": "MIN",
+    "Values": "MINORITY"
+  },
+  {
+    "Abbreviation": "MOL",
+    "Values": "MOLECULAR"
+  },
+  {
+    "Abbreviation": "MOM",
+    "Values": "MO"
+  },
+  {
+    "Abbreviation": "MULTIM",
+    "Values": "MULTIMEDIA"
+  },
+  {
+    "Abbreviation": "NATL",
+    "Values": "NATIONAL"
+  },
+  {
+    "Abbreviation": "NIH",
+    "Values": "NATIONAL"
+  },
+  {
+    "Abbreviation": "NGHBORHD",
+    "Values": "NEIGHBORHOOD"
+  },
+  {
+    "Abbreviation": "NEO",
+    "Values": "NEONATAL"
+  },
+  {
+    "Abbreviation": "PERI",
+    "Values": "PERINATAL"
+  },
+  {
+    "Abbreviation": "NW",
+    "Values": "NETWORK"
+  },
+  {
+    "Abbreviation": "NWBORN",
+    "Values": "NEWBORN"
+  },
+  {
+    "Abbreviation": "NGT",
+    "Values": "NIGHT"
+  },
+  {
+    "Abbreviation": "NMR",
+    "Values": "NUCLEAR"
+  },
+  {
+    "Abbreviation": "PRN",
+    "Values": "NURSES"
+  },
+  {
+    "Abbreviation": "NRSG",
+    "Values": "NURSING"
+  },
+  {
+    "Abbreviation": "OSCE",
+    "Values": "OBJECTIVE"
+  },
+  {
+    "Abbreviation": "OB",
+    "Values": "OBSTETRICS"
+  },
+  {
+    "Abbreviation": "GYN",
+    "Values": "GYNECOLOGY"
+  },
+  {
+    "Abbreviation": "OCCUP",
+    "Values": "OCCUPATION"
+  },
+  {
+    "Abbreviation": "OFF",
+    "Values": "OFFICER"
+  },
+  {
+    "Abbreviation": "ONCOL",
+    "Values": "ONCOLOGY"
+  },
+  {
+    "Abbreviation": "OPER",
+    "Values": "OPERATOR"
+  },
+  {
+    "Abbreviation": "OPTOM",
+    "Values": "OPTOMETRIC"
+  },
+  {
+    "Abbreviation": "ORTHO",
+    "Values": "ORTHOPAEDIC"
+  },
+  {
+    "Abbreviation": "OUTPAT",
+    "Values": "OUTPATIENT"
+  },
+  {
+    "Abbreviation": "PRNT",
+    "Values": "PARENT"
+  },
+  {
+    "Abbreviation": "PRTNR",
+    "Values": "PARTNER"
+  },
+  {
+    "Abbreviation": "PATH",
+    "Values": "PATHOLOGY"
+  },
+  {
+    "Abbreviation": "PAT",
+    "Values": "PATIENT"
+  },
+  {
+    "Abbreviation": "PED",
+    "Values": "PEDIATRICS"
+  },
+  {
+    "Abbreviation": "PHOTOCOMP",
+    "Values": "PHOTOCOMPOSITION"
+  },
+  {
+    "Abbreviation": "PHOTOGRAPHR",
+    "Values": "PHOTOGRAPHER"
+  },
+  {
+    "Abbreviation": "PHYS",
+    "Values": "PHYSICAL"
+  },
+  {
+    "Abbreviation": "PHYSN",
+    "Values": "PHYSICIAN"
+  },
+  {
+    "Abbreviation": "PHYSIO",
+    "Values": "PHYSIOLOGIST"
+  },
+  {
+    "Abbreviation": "PL",
+    "Values": "PLACEMENT"
+  },
+  {
+    "Abbreviation": "PLAN",
+    "Values": "PLANNING"
+  },
+  {
+    "Abbreviation": "POS",
+    "Values": "POINT"
+  },
+  {
+    "Abbreviation": "PET",
+    "Values": "POSITRON"
+  },
+  {
+    "Abbreviation": "PRACT",
+    "Values": "PRACTICE"
+  },
+  {
+    "Abbreviation": "PRECRTN",
+    "Values": "PRECERTIFICATION"
+  },
+  {
+    "Abbreviation": "PRENA",
+    "Values": "PRE-NATAL"
+  },
+  {
+    "Abbreviation": "PREP",
+    "Values": "PREPARATION"
+  },
+  {
+    "Abbreviation": "PRESNT",
+    "Values": "PRESENTATION"
+  },
+  {
+    "Abbreviation": "PRES",
+    "Values": "PRESIDENT"
+  },
+  {
+    "Abbreviation": "PREV",
+    "Values": "PREVENTIVE"
+  },
+  {
+    "Abbreviation": "PRIN",
+    "Values": "PRINCIPAL"
+  },
+  {
+    "Abbreviation": "PROB",
+    "Values": "PROBLEM"
+  },
+  {
+    "Abbreviation": "PROC",
+    "Values": "PROCESSING"
+  },
+  {
+    "Abbreviation": "PRODU",
+    "Values": "PRODUCER"
+  },
+  {
+    "Abbreviation": "PROD",
+    "Values": "PRODUCTION"
+  },
+  {
+    "Abbreviation": "PROF",
+    "Values": "PROFESSIONAL"
+  },
+  {
+    "Abbreviation": "PROG",
+    "Values": "PROGRAM,"
+  },
+  {
+    "Abbreviation": "PROJ",
+    "Values": "PROJECT"
+  },
+  {
+    "Abbreviation": "PROM",
+    "Values": "PROMOTIONS"
+  },
+  {
+    "Abbreviation": "PSYCH",
+    "Values": "PSYCHIATRY"
+  },
+  {
+    "Abbreviation": "PSYCHOL",
+    "Values": "PSYCHOLOGICAL"
+  },
+  {
+    "Abbreviation": "PUBL",
+    "Values": "PUBLICATION"
+  },
+  {
+    "Abbreviation": "PDDS",
+    "Values": "PUBLISHING"
+  },
+  {
+    "Abbreviation": "PUR",
+    "Values": "PURCHASING"
+  },
+  {
+    "Abbreviation": "QUAL",
+    "Values": "QUALITY"
+  },
+  {
+    "Abbreviation": "QC",
+    "Values": "QUALITY"
+  },
+  {
+    "Abbreviation": "RADIO",
+    "Values": "RADIOLOGY,"
+  },
+  {
+    "Abbreviation": "REC",
+    "Values": "RECEIVING"
+  },
+  {
+    "Abbreviation": "RECRE",
+    "Values": "RECREATION"
+  },
+  {
+    "Abbreviation": "RECR",
+    "Values": "RECRUITMENT"
+  },
+  {
+    "Abbreviation": "REDRC",
+    "Values": "REGIONAL"
+  },
+  {
+    "Abbreviation": "REFRIG",
+    "Values": "REFRIGERATION"
+  },
+  {
+    "Abbreviation": "REG",
+    "Values": "REGIONAL"
+  },
+  {
+    "Abbreviation": "REGR",
+    "Values": "REGISTRAR"
+  },
+  {
+    "Abbreviation": "REHAB",
+    "Values": "REHABILITATION"
+  },
+  {
+    "Abbreviation": "REIMBURSE",
+    "Values": "REIMBURSE,"
+  },
+  {
+    "Abbreviation": "REL",
+    "Values": "RELATION"
+  },
+  {
+    "Abbreviation": "REP",
+    "Values": "REPRESENTATIVE"
+  },
+  {
+    "Abbreviation": "IDX",
+    "Values": "REPRESENTS"
+  },
+  {
+    "Abbreviation": "RES",
+    "Values": "RESEARCH"
+  },
+  {
+    "Abbreviation": "RESNET",
+    "Values": "RESEARCH"
+  },
+  {
+    "Abbreviation": "RESID",
+    "Values": "RESIDENT,"
+  },
+  {
+    "Abbreviation": "RESO",
+    "Values": "RESOURCE"
+  },
+  {
+    "Abbreviation": "RESP",
+    "Values": "RESPIRATORY"
+  },
+  {
+    "Abbreviation": "RCCC",
+    "Values": "RILEY"
+  },
+  {
+    "Abbreviation": "SAFE",
+    "Values": "SAFETY"
+  },
+  {
+    "Abbreviation": "SCAN",
+    "Values": "SCANNING"
+  },
+  {
+    "Abbreviation": "SCHED",
+    "Values": "SCHEDULING,"
+  },
+  {
+    "Abbreviation": "SCHL",
+    "Values": "SCHOOL"
+  },
+  {
+    "Abbreviation": "SCI",
+    "Values": "SCIENCE"
+  },
+  {
+    "Abbreviation": "SCNDRY",
+    "Values": "SECONDARY"
+  },
+  {
+    "Abbreviation": "SEC",
+    "Values": "SECRETARY"
+  },
+  {
+    "Abbreviation": "SECT",
+    "Values": "SECTION"
+  },
+  {
+    "Abbreviation": "SR",
+    "Values": "SENIOR"
+  },
+  {
+    "Abbreviation": "SER",
+    "Values": "SERVICE"
+  },
+  {
+    "Abbreviation": "SHIP",
+    "Values": "SHIPPING"
+  },
+  {
+    "Abbreviation": "SHOOT",
+    "Values": "SHOOTING"
+  },
+  {
+    "Abbreviation": "SBDC",
+    "Values": "SOUTH"
+  },
+  {
+    "Abbreviation": "SOC",
+    "Values": "SOCIAL"
+  },
+  {
+    "Abbreviation": "SEA",
+    "Values": "SOUTHEAST"
+  },
+  {
+    "Abbreviation": "SPEC",
+    "Values": "SPECIAL,"
+  },
+  {
+    "Abbreviation": "SPAN",
+    "Values": "SPECIAL"
+  },
+  {
+    "Abbreviation": "SPECT",
+    "Values": "SPECTROMETRY"
+  },
+  {
+    "Abbreviation": "SPON",
+    "Values": "SPONSORED"
+  },
+  {
+    "Abbreviation": "STF",
+    "Values": "STAFF"
+  },
+  {
+    "Abbreviation": "STATIS",
+    "Values": "STATISTICAL"
+  },
+  {
+    "Abbreviation": "STR",
+    "Values": "STRESS"
+  },
+  {
+    "Abbreviation": "TRDML",
+    "Values": "TREADMILL"
+  },
+  {
+    "Abbreviation": "STU",
+    "Values": "STUDENT"
+  },
+  {
+    "Abbreviation": "SRSC",
+    "Values": "STUDENT"
+  },
+  {
+    "Abbreviation": "STDY",
+    "Values": "STUDY"
+  },
+  {
+    "Abbreviation": "SUPT",
+    "Values": "SUPERINTENDENT"
+  },
+  {
+    "Abbreviation": "SUPR",
+    "Values": "SUPERVISOR"
+  },
+  {
+    "Abbreviation": "SUPP",
+    "Values": "SUPPORT,"
+  },
+  {
+    "Abbreviation": "SWIM",
+    "Values": "SWIMMING"
+  },
+  {
+    "Abbreviation": "SYS",
+    "Values": "SYSTEM"
+  },
+  {
+    "Abbreviation": "TCHNG",
+    "Values": "TEACHING"
+  },
+  {
+    "Abbreviation": "TECH",
+    "Values": "TECHNICIAN"
+  },
+  {
+    "Abbreviation": "TECHNOL",
+    "Values": "TECHNOLOGIST"
+  },
+  {
+    "Abbreviation": "TELC",
+    "Values": "TELECOMMUNICATIONS"
+  },
+  {
+    "Abbreviation": "TEMP",
+    "Values": "TEMPORARY"
+  },
+  {
+    "Abbreviation": "THTR",
+    "Values": "THEATRE"
+  },
+  {
+    "Abbreviation": "THER",
+    "Values": "THERAPY"
+  },
+  {
+    "Abbreviation": "TIS",
+    "Values": "TISSUE"
+  },
+  {
+    "Abbreviation": "TOX",
+    "Values": "TOXICOLOGY"
+  },
+  {
+    "Abbreviation": "TRNE",
+    "Values": "TRAINEE"
+  },
+  {
+    "Abbreviation": "TRNR",
+    "Values": "TRAINER"
+  },
+  {
+    "Abbreviation": "TRNG",
+    "Values": "TRAINING"
+  },
+  {
+    "Abbreviation": "TRANSCPT",
+    "Values": "TRANSCRIPTIONST"
+  },
+  {
+    "Abbreviation": "TRANS",
+    "Values": "TRANSFER"
+  },
+  {
+    "Abbreviation": "TRNSPLT",
+    "Values": "TRANSPLANT"
+  },
+  {
+    "Abbreviation": "TRANSPORT",
+    "Values": "TRANSPORTATION"
+  },
+  {
+    "Abbreviation": "ULTRA",
+    "Values": "ULTRASOUND"
+  },
+  {
+    "Abbreviation": "UG",
+    "Values": "UNDERGRADUATE"
+  },
+  {
+    "Abbreviation": "UNEMPLOY",
+    "Values": "UNEMPLOYMENT"
+  },
+  {
+    "Abbreviation": "UNIV",
+    "Values": "UNIVERSITY"
+  },
+  {
+    "Abbreviation": "UCET",
+    "Values": "UNIVERSITY"
+  },
+  {
+    "Abbreviation": "UMDA",
+    "Values": "UNIVERSITY"
+  },
+  {
+    "Abbreviation": "UPA",
+    "Values": "UNIVERSITY"
+  },
+  {
+    "Abbreviation": "UTIL",
+    "Values": "UTILITIES"
+  },
+  {
+    "Abbreviation": "VARS",
+    "Values": "VARSITY"
+  },
+  {
+    "Abbreviation": "VCLUB",
+    "Values": "VARSITY"
+  },
+  {
+    "Abbreviation": "VET",
+    "Values": "VETERAN"
+  },
+  {
+    "Abbreviation": "VC",
+    "Values": "VICE"
+  },
+  {
+    "Abbreviation": "VP",
+    "Values": "VICE"
+  },
+  {
+    "Abbreviation": "VIC",
+    "Values": "VIRTUAL"
+  },
+  {
+    "Abbreviation": "WAREHS",
+    "Values": "WAREHOUSE"
+  },
+  {
+    "Abbreviation": "WELLNS",
+    "Values": "WELLNESS"
+  },
+  {
+    "Abbreviation": "WCTR",
+    "Values": "WELLS"
+  },
+  {
+    "Abbreviation": "WSTRN",
+    "Values": "WESTERN"
+  },
+  {
+    "Abbreviation": "WKR",
+    "Values": "WORKER"
+  },
+  {
+    "Abbreviation": "AFG",
+    "Values": "Afghanistan"
+  },
+  {
+    "Abbreviation": "ALA",
+    "Values": "Aland Islands"
+  },
+  {
+    "Abbreviation": "ALB",
+    "Values": "Albania"
+  },
+  {
+    "Abbreviation": "DZA",
+    "Values": "Algeria"
+  },
+  {
+    "Abbreviation": "ASM",
+    "Values": "American Samoa"
+  },
+  {
+    "Abbreviation": "AGO",
+    "Values": "Angola"
+  },
+  {
+    "Abbreviation": "AIA",
+    "Values": "Anguilla"
+  },
+  {
+    "Abbreviation": "ATA",
+    "Values": "Antarctica"
+  },
+  {
+    "Abbreviation": "ATG",
+    "Values": "Antigua and Barbuda"
+  },
+  {
+    "Abbreviation": "ARG",
+    "Values": "Argentina"
+  },
+  {
+    "Abbreviation": "ARM",
+    "Values": "Armenia"
+  },
+  {
+    "Abbreviation": "ABW",
+    "Values": "Aruba"
+  },
+  {
+    "Abbreviation": "AUS",
+    "Values": "Australia"
+  },
+  {
+    "Abbreviation": "AUT",
+    "Values": "Austria"
+  },
+  {
+    "Abbreviation": "AZE",
+    "Values": "Azerbaijan"
+  },
+  {
+    "Abbreviation": "BHS",
+    "Values": "Bahamas"
+  },
+  {
+    "Abbreviation": "BHR",
+    "Values": "Bahrain"
+  },
+  {
+    "Abbreviation": "BGD",
+    "Values": "Bangladesh"
+  },
+  {
+    "Abbreviation": "BRB",
+    "Values": "Barbados"
+  },
+  {
+    "Abbreviation": "BLR",
+    "Values": "Belarus"
+  },
+  {
+    "Abbreviation": "BEL",
+    "Values": "Belgium"
+  },
+  {
+    "Abbreviation": "BLZ",
+    "Values": "Belize"
+  },
+  {
+    "Abbreviation": "BEN",
+    "Values": "Benin"
+  },
+  {
+    "Abbreviation": "BMU",
+    "Values": "Bermuda"
+  },
+  {
+    "Abbreviation": "BTN",
+    "Values": "Bhutan"
+  },
+  {
+    "Abbreviation": "BOL",
+    "Values": "Bolivia"
+  },
+  {
+    "Abbreviation": "BES",
+    "Values": "Bonaire, Sint Eustatius and Saba"
+  },
+  {
+    "Abbreviation": "BIH",
+    "Values": "Bosnia and Herzegovina"
+  },
+  {
+    "Abbreviation": "BWA",
+    "Values": "Botswana"
+  },
+  {
+    "Abbreviation": "BVT",
+    "Values": "Bouvet Island"
+  },
+  {
+    "Abbreviation": "BRA",
+    "Values": "Brazil"
+  },
+  {
+    "Abbreviation": "IOT",
+    "Values": "British Indian Ocean Territory"
+  },
+  {
+    "Abbreviation": "BRN",
+    "Values": "Brunei Darussalam"
+  },
+  {
+    "Abbreviation": "BGR",
+    "Values": "Bulgaria"
+  },
+  {
+    "Abbreviation": "BFA",
+    "Values": "Burkina Faso"
+  },
+  {
+    "Abbreviation": "BDI",
+    "Values": "Burundi"
+  },
+  {
+    "Abbreviation": "KHM",
+    "Values": "Cambodia"
+  },
+  {
+    "Abbreviation": "CMR",
+    "Values": "Cameroon"
+  },
+  {
+    "Abbreviation": "CAN",
+    "Values": "Canada"
+  },
+  {
+    "Abbreviation": "CPV",
+    "Values": "Cape Verde"
+  },
+  {
+    "Abbreviation": "CYM",
+    "Values": "Cayman Islands"
+  },
+  {
+    "Abbreviation": "CAF",
+    "Values": "Central African Republic"
+  },
+  {
+    "Abbreviation": "TCD",
+    "Values": "Chad"
+  },
+  {
+    "Abbreviation": "CHL",
+    "Values": "Chile"
+  },
+  {
+    "Abbreviation": "CHN",
+    "Values": "China"
+  },
+  {
+    "Abbreviation": "CXR",
+    "Values": "Christmas Island"
+  },
+  {
+    "Abbreviation": "CCK",
+    "Values": "Cocos (Keeling) Islands"
+  },
+  {
+    "Abbreviation": "COL",
+    "Values": "Colombia"
+  },
+  {
+    "Abbreviation": "COM",
+    "Values": "Comoros"
+  },
+  {
+    "Abbreviation": "COG",
+    "Values": "Congo"
+  },
+  {
+    "Abbreviation": "COD",
+    "Values": "Congo, The Democratic Republic of"
+  },
+  {
+    "Abbreviation": "COK",
+    "Values": "Cook Islands"
+  },
+  {
+    "Abbreviation": "CRI",
+    "Values": "Costa Rica"
+  },
+  {
+    "Abbreviation": "CIV",
+    "Values": "Cote d'Ivoire"
+  },
+  {
+    "Abbreviation": "HRV",
+    "Values": "Croatia"
+  },
+  {
+    "Abbreviation": "CUB",
+    "Values": "Cuba"
+  },
+  {
+    "Abbreviation": "CUW",
+    "Values": "Curaçao"
+  },
+  {
+    "Abbreviation": "CYP",
+    "Values": "Cyprus"
+  },
+  {
+    "Abbreviation": "CZE",
+    "Values": "Czechia"
+  },
+  {
+    "Abbreviation": "DNK",
+    "Values": "Denmark"
+  },
+  {
+    "Abbreviation": "DJI",
+    "Values": "Djibouti"
+  },
+  {
+    "Abbreviation": "DMA",
+    "Values": "Dominica"
+  },
+  {
+    "Abbreviation": "DOM",
+    "Values": "Dominican Republic"
+  },
+  {
+    "Abbreviation": "ECU",
+    "Values": "Ecuador"
+  },
+  {
+    "Abbreviation": "EGY",
+    "Values": "Egypt"
+  },
+  {
+    "Abbreviation": "SLV",
+    "Values": "El Salvador"
+  },
+  {
+    "Abbreviation": "GNQ",
+    "Values": "Equatorial Guinea"
+  },
+  {
+    "Abbreviation": "ERI",
+    "Values": "Eritrea"
+  },
+  {
+    "Abbreviation": "EST",
+    "Values": "Estonia"
+  },
+  {
+    "Abbreviation": "ETH",
+    "Values": "Ethiopia"
+  },
+  {
+    "Abbreviation": "FLK",
+    "Values": "Falkland Islands (Malvinas)"
+  },
+  {
+    "Abbreviation": "FRO",
+    "Values": "Faroe Islands"
+  },
+  {
+    "Abbreviation": "FJI",
+    "Values": "Fiji"
+  },
+  {
+    "Abbreviation": "FIN",
+    "Values": "Finland"
+  },
+  {
+    "Abbreviation": "FRA",
+    "Values": "France"
+  },
+  {
+    "Abbreviation": "GUF",
+    "Values": "French Guiana"
+  },
+  {
+    "Abbreviation": "PYF",
+    "Values": "French Polynesia"
+  },
+  {
+    "Abbreviation": "ATF",
+    "Values": "French Southern Territories"
+  },
+  {
+    "Abbreviation": "GAB",
+    "Values": "Gabon"
+  },
+  {
+    "Abbreviation": "GMB",
+    "Values": "Gambia"
+  },
+  {
+    "Abbreviation": "GEO",
+    "Values": "Georgia"
+  },
+  {
+    "Abbreviation": "DEU",
+    "Values": "Germany"
+  },
+  {
+    "Abbreviation": "GHA",
+    "Values": "Ghana"
+  },
+  {
+    "Abbreviation": "GIB",
+    "Values": "Gibraltar"
+  },
+  {
+    "Abbreviation": "GRC",
+    "Values": "Greece"
+  },
+  {
+    "Abbreviation": "GRL",
+    "Values": "Greenland"
+  },
+  {
+    "Abbreviation": "GRD",
+    "Values": "Grenada"
+  },
+  {
+    "Abbreviation": "GLP",
+    "Values": "Guadeloupe"
+  },
+  {
+    "Abbreviation": "GUM",
+    "Values": "Guam"
+  },
+  {
+    "Abbreviation": "GTM",
+    "Values": "Guatemala"
+  },
+  {
+    "Abbreviation": "GGY",
+    "Values": "Guernsey"
+  },
+  {
+    "Abbreviation": "GIN",
+    "Values": "Guinea"
+  },
+  {
+    "Abbreviation": "GNB",
+    "Values": "Guinea-Bissau"
+  },
+  {
+    "Abbreviation": "GUY",
+    "Values": "Guyana"
+  },
+  {
+    "Abbreviation": "HTI",
+    "Values": "Haiti"
+  },
+  {
+    "Abbreviation": "HMD",
+    "Values": "Heard and Mc Donald Islands"
+  },
+  {
+    "Abbreviation": "VAT",
+    "Values": "Holy See (Vatican City State)"
+  },
+  {
+    "Abbreviation": "HND",
+    "Values": "Honduras"
+  },
+  {
+    "Abbreviation": "HKG",
+    "Values": "Hong Kong"
+  },
+  {
+    "Abbreviation": "HUN",
+    "Values": "Hungary"
+  },
+  {
+    "Abbreviation": "ISL",
+    "Values": "Iceland"
+  },
+  {
+    "Abbreviation": "IND",
+    "Values": "India"
+  },
+  {
+    "Abbreviation": "IDN",
+    "Values": "Indonesia"
+  },
+  {
+    "Abbreviation": "IRN",
+    "Values": "Iran, Islamic Republic of"
+  },
+  {
+    "Abbreviation": "IRQ",
+    "Values": "Iraq"
+  },
+  {
+    "Abbreviation": "IRL",
+    "Values": "Ireland"
+  },
+  {
+    "Abbreviation": "IMN",
+    "Values": "Isle of Man"
+  },
+  {
+    "Abbreviation": "ISR",
+    "Values": "Israel"
+  },
+  {
+    "Abbreviation": "ITA",
+    "Values": "Italy"
+  },
+  {
+    "Abbreviation": "JAM",
+    "Values": "Jamaica"
+  },
+  {
+    "Abbreviation": "JPN",
+    "Values": "Japan"
+  },
+  {
+    "Abbreviation": "JEY",
+    "Values": "Jersey"
+  },
+  {
+    "Abbreviation": "JOR",
+    "Values": "Jordan"
+  },
+  {
+    "Abbreviation": "KAZ",
+    "Values": "Kazakstan"
+  },
+  {
+    "Abbreviation": "KEN",
+    "Values": "Kenya"
+  },
+  {
+    "Abbreviation": "KIR",
+    "Values": "Kiribati"
+  },
+  {
+    "Abbreviation": "PRK",
+    "Values": "Korea, Democratic People's Republic of"
+  },
+  {
+    "Abbreviation": "KOR",
+    "Values": "Korea, Republic of"
+  },
+  {
+    "Abbreviation": "XKX",
+    "Values": "Kosovo (temporary code)"
+  },
+  {
+    "Abbreviation": "KWT",
+    "Values": "Kuwait"
+  },
+  {
+    "Abbreviation": "KGZ",
+    "Values": "Kyrgyzstan"
+  },
+  {
+    "Abbreviation": "LAO",
+    "Values": "Lao, People's Democratic Republic"
+  },
+  {
+    "Abbreviation": "LVA",
+    "Values": "Latvia"
+  },
+  {
+    "Abbreviation": "LBN",
+    "Values": "Lebanon"
+  },
+  {
+    "Abbreviation": "LSO",
+    "Values": "Lesotho"
+  },
+  {
+    "Abbreviation": "LBR",
+    "Values": "Liberia"
+  },
+  {
+    "Abbreviation": "LBY",
+    "Values": "Libyan Arab Jamahiriya"
+  },
+  {
+    "Abbreviation": "LIE",
+    "Values": "Liechtenstein"
+  },
+  {
+    "Abbreviation": "LTU",
+    "Values": "Lithuania"
+  },
+  {
+    "Abbreviation": "LUX",
+    "Values": "Luxembourg"
+  },
+  {
+    "Abbreviation": "MAC",
+    "Values": "Macao"
+  },
+  {
+    "Abbreviation": "MKD",
+    "Values": "Macedonia, The Former Yugoslav Republic Of"
+  },
+  {
+    "Abbreviation": "MDG",
+    "Values": "Madagascar"
+  },
+  {
+    "Abbreviation": "MWI",
+    "Values": "Malawi"
+  },
+  {
+    "Abbreviation": "MYS",
+    "Values": "Malaysia"
+  },
+  {
+    "Abbreviation": "MDV",
+    "Values": "Maldives"
+  },
+  {
+    "Abbreviation": "MLI",
+    "Values": "Mali"
+  },
+  {
+    "Abbreviation": "MLT",
+    "Values": "Malta"
+  },
+  {
+    "Abbreviation": "MHL",
+    "Values": "Marshall Islands"
+  },
+  {
+    "Abbreviation": "MTQ",
+    "Values": "Martinique"
+  },
+  {
+    "Abbreviation": "MRT",
+    "Values": "Mauritania"
+  },
+  {
+    "Abbreviation": "MUS",
+    "Values": "Mauritius"
+  },
+  {
+    "Abbreviation": "MYT",
+    "Values": "Mayotte"
+  },
+  {
+    "Abbreviation": "MEX",
+    "Values": "Mexico"
+  },
+  {
+    "Abbreviation": "FSM",
+    "Values": "Micronesia, Federated States of"
+  },
+  {
+    "Abbreviation": "MDA",
+    "Values": "Moldova, Republic of"
+  },
+  {
+    "Abbreviation": "MCO",
+    "Values": "Monaco"
+  },
+  {
+    "Abbreviation": "MNG",
+    "Values": "Mongolia"
+  },
+  {
+    "Abbreviation": "MNE",
+    "Values": "Montenegro"
+  },
+  {
+    "Abbreviation": "MSR",
+    "Values": "Montserrat"
+  },
+  {
+    "Abbreviation": "MAR",
+    "Values": "Morocco"
+  },
+  {
+    "Abbreviation": "MOZ",
+    "Values": "Mozambique"
+  },
+  {
+    "Abbreviation": "MMR",
+    "Values": "Myanmar"
+  },
+  {
+    "Abbreviation": "NAM",
+    "Values": "Namibia"
+  },
+  {
+    "Abbreviation": "NRU",
+    "Values": "Nauru"
+  },
+  {
+    "Abbreviation": "NPL",
+    "Values": "Nepal"
+  },
+  {
+    "Abbreviation": "NLD",
+    "Values": "Netherlands"
+  },
+  {
+    "Abbreviation": "NCL",
+    "Values": "New Caledonia"
+  },
+  {
+    "Abbreviation": "NZL",
+    "Values": "New Zealand"
+  },
+  {
+    "Abbreviation": "NIC",
+    "Values": "Nicaragua"
+  },
+  {
+    "Abbreviation": "NER",
+    "Values": "Niger"
+  },
+  {
+    "Abbreviation": "NGA",
+    "Values": "Nigeria"
+  },
+  {
+    "Abbreviation": "NIU",
+    "Values": "Niue"
+  },
+  {
+    "Abbreviation": "NFK",
+    "Values": "Norfolk Island"
+  },
+  {
+    "Abbreviation": "MNP",
+    "Values": "Northern Mariana Islands"
+  },
+  {
+    "Abbreviation": "NOR",
+    "Values": "Norway"
+  },
+  {
+    "Abbreviation": "OMN",
+    "Values": "Oman"
+  },
+  {
+    "Abbreviation": "PAK",
+    "Values": "Pakistan"
+  },
+  {
+    "Abbreviation": "PLW",
+    "Values": "Palau"
+  },
+  {
+    "Abbreviation": "PSE",
+    "Values": "Palestinian Territory, Occupied"
+  },
+  {
+    "Abbreviation": "PAN",
+    "Values": "Panama"
+  },
+  {
+    "Abbreviation": "PNG",
+    "Values": "Papua New Guinea"
+  },
+  {
+    "Abbreviation": "PRY",
+    "Values": "Paraguay"
+  },
+  {
+    "Abbreviation": "PER",
+    "Values": "Peru"
+  },
+  {
+    "Abbreviation": "PHL",
+    "Values": "Philippines"
+  },
+  {
+    "Abbreviation": "PCN",
+    "Values": "Pitcairn"
+  },
+  {
+    "Abbreviation": "POL",
+    "Values": "Poland"
+  },
+  {
+    "Abbreviation": "PRT",
+    "Values": "Portugal"
+  },
+  {
+    "Abbreviation": "PRI",
+    "Values": "Puerto Rico"
+  },
+  {
+    "Abbreviation": "QAT",
+    "Values": "Qatar"
+  },
+  {
+    "Abbreviation": "SRB",
+    "Values": "Republic of Serbia"
+  },
+  {
+    "Abbreviation": "REU",
+    "Values": "Reunion"
+  },
+  {
+    "Abbreviation": "ROU",
+    "Values": "Romania"
+  },
+  {
+    "Abbreviation": "RUS",
+    "Values": "Russia Federation"
+  },
+  {
+    "Abbreviation": "RWA",
+    "Values": "Rwanda"
+  },
+  {
+    "Abbreviation": "BLM",
+    "Values": "Saint Barthélemy"
+  },
+  {
+    "Abbreviation": "SHN",
+    "Values": "Saint Helena"
+  },
+  {
+    "Abbreviation": "KNA",
+    "Values": "Saint Kitts & Nevis"
+  },
+  {
+    "Abbreviation": "LCA",
+    "Values": "Saint Lucia"
+  },
+  {
+    "Abbreviation": "MAF",
+    "Values": "Saint Martin"
+  },
+  {
+    "Abbreviation": "SPM",
+    "Values": "Saint Pierre and Miquelon"
+  },
+  {
+    "Abbreviation": "VCT",
+    "Values": "Saint Vincent and the Grenadines"
+  },
+  {
+    "Abbreviation": "WSM",
+    "Values": "Samoa"
+  },
+  {
+    "Abbreviation": "SMR",
+    "Values": "San Marino"
+  },
+  {
+    "Abbreviation": "STP",
+    "Values": "Sao Tome and Principe"
+  },
+  {
+    "Abbreviation": "SAU",
+    "Values": "Saudi Arabia"
+  },
+  {
+    "Abbreviation": "SEN",
+    "Values": "Senegal"
+  },
+  {
+    "Abbreviation": "SYC",
+    "Values": "Seychelles"
+  },
+  {
+    "Abbreviation": "SLE",
+    "Values": "Sierra Leone"
+  },
+  {
+    "Abbreviation": "SGP",
+    "Values": "Singapore"
+  },
+  {
+    "Abbreviation": "SXM",
+    "Values": "Sint Maarten"
+  },
+  {
+    "Abbreviation": "SVK",
+    "Values": "Slovakia"
+  },
+  {
+    "Abbreviation": "SVN",
+    "Values": "Slovenia"
+  },
+  {
+    "Abbreviation": "SLB",
+    "Values": "Solomon Islands"
+  },
+  {
+    "Abbreviation": "SOM",
+    "Values": "Somalia"
+  },
+  {
+    "Abbreviation": "ZAF",
+    "Values": "South Africa"
+  },
+  {
+    "Abbreviation": "SGS",
+    "Values": "South Georgia & The South Sandwich Islands"
+  },
+  {
+    "Abbreviation": "SSD",
+    "Values": "South Sudan"
+  },
+  {
+    "Abbreviation": "ESP",
+    "Values": "Spain"
+  },
+  {
+    "Abbreviation": "LKA",
+    "Values": "Sri Lanka"
+  },
+  {
+    "Abbreviation": "SDN",
+    "Values": "Sudan"
+  },
+  {
+    "Abbreviation": "SUR",
+    "Values": "Suriname"
+  },
+  {
+    "Abbreviation": "SJM",
+    "Values": "Svalbard and Jan Mayen"
+  },
+  {
+    "Abbreviation": "SWZ",
+    "Values": "Swaziland"
+  },
+  {
+    "Abbreviation": "SWE",
+    "Values": "Sweden"
+  },
+  {
+    "Abbreviation": "CHE",
+    "Values": "Switzerland"
+  },
+  {
+    "Abbreviation": "SYR",
+    "Values": "Syrian Arab Republic"
+  },
+  {
+    "Abbreviation": "TWN",
+    "Values": "Taiwan, Province of China"
+  },
+  {
+    "Abbreviation": "TJK",
+    "Values": "Tajikistan"
+  },
+  {
+    "Abbreviation": "TZA",
+    "Values": "Tanzania, United Republic of"
+  },
+  {
+    "Abbreviation": "THA",
+    "Values": "Thailand"
+  },
+  {
+    "Abbreviation": "TLS",
+    "Values": "Timor-Leste"
+  },
+  {
+    "Abbreviation": "TGO",
+    "Values": "Togo"
+  },
+  {
+    "Abbreviation": "TKL",
+    "Values": "Tokelau"
+  },
+  {
+    "Abbreviation": "TON",
+    "Values": "Tonga"
+  },
+  {
+    "Abbreviation": "TTO",
+    "Values": "Trinidad and Tobago"
+  },
+  {
+    "Abbreviation": "TUN",
+    "Values": "Tunisia"
+  },
+  {
+    "Abbreviation": "TUR",
+    "Values": "Turkey"
+  },
+  {
+    "Abbreviation": "XTX",
+    "Values": "Turkish Rep N Cyprus"
+  },
+  {
+    "Abbreviation": "TKM",
+    "Values": "Turkmenistan"
+  },
+  {
+    "Abbreviation": "TCA",
+    "Values": "Turks and Caicos Islands"
+  },
+  {
+    "Abbreviation": "TUV",
+    "Values": "Tuvalu"
+  },
+  {
+    "Abbreviation": "UGA",
+    "Values": "Uganda"
+  },
+  {
+    "Abbreviation": "UKR",
+    "Values": "Ukraine"
+  },
+  {
+    "Abbreviation": "ARE",
+    "Values": "United Arab Emirates"
+  },
+  {
+    "Abbreviation": "GBR",
+    "Values": "United Kingdom"
+  },
+  {
+    "Abbreviation": "USA",
+    "Values": "United States"
+  },
+  {
+    "Abbreviation": "UMI",
+    "Values": "United States Minor Outlying Islands"
+  },
+  {
+    "Abbreviation": "URY",
+    "Values": "Uruguay"
+  },
+  {
+    "Abbreviation": "UZB",
+    "Values": "Uzbekistan"
+  },
+  {
+    "Abbreviation": "VUT",
+    "Values": "Vanuatu"
+  },
+  {
+    "Abbreviation": "VEN",
+    "Values": "Venezuela"
+  },
+  {
+    "Abbreviation": "VNM",
+    "Values": "Vietnam"
+  },
+  {
+    "Abbreviation": "VGB",
+    "Values": "Virgin Islands, British"
+  },
+  {
+    "Abbreviation": "VIR",
+    "Values": "Virgin Islands, U.S."
+  },
+  {
+    "Abbreviation": "WLF",
+    "Values": "Wallis and Futuna"
+  },
+  {
+    "Abbreviation": "ESH",
+    "Values": "Western Sahara"
+  },
+  {
+    "Abbreviation": "YEM",
+    "Values": "Yemen"
+  },
+  {
+    "Abbreviation": "ZMB",
+    "Values": "Zambia"
+  },
+  {
+    "Abbreviation": "ZWE",
+    "Values": "Zimbabwe"
+  }
+]
